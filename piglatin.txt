@@ -21,4 +21,16 @@ else:
 7/ pyg = 'ay'
 
 
-8/ 
+8/ if len(original) > 0 and original.isalpha():
+  word = original.lower()
+  first = word[0]
+  print original
+
+
+9/ f len(original) > 0 and original.isalpha():
+  word = original.lower()
+  first = word[0]
+  new_word = word + first + pyg
+  print original
+
+10/ 
