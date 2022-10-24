@@ -1,1 +1,24 @@
+2/  print "Pig Latin"
 
+
+3/ original = raw_input("Enter a word:")
+
+
+4/ riginal = raw_input("Enter a word:")
+if len(original) > 0:
+  print original
+else:
+  print "Empty"
+
+
+5/ original = raw_input("Enter a word:")
+if len(original) > 0 and original.isalpha():
+  print original
+else:
+  print "Empty"
+
+
+7/ pyg = 'ay'
+
+
+8/ 
